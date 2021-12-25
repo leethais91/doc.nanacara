@@ -6,11 +6,17 @@ fields:
   name: title
   label: title
 - type: text
-  name: slug
-  label: slug
-- type: text
   name: description
   label: description
+- type: text
+  name: cover
+  label: cover
+- type: boolean
+  name: fullscreen
+  label: fullscreen
+- type: text
+  name: slug
+  label: slug
 - type: datetime
   name: date
   label: date
@@ -20,9 +26,3 @@ fields:
 - type: list
   name: tags
   label: tags
-- type: text
-  name: cover
-  label: cover
-- type: boolean
-  name: fullscreen
-  label: fullscreen
