@@ -26,5 +26,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- test-admin-page.md
