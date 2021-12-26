@@ -5,8 +5,8 @@ description: ''
 date: 2021-12-13T00:00:00+07:00
 author: ThaiLe
 tags:
-- CICD
 - fastlane
+- CICD
 cover: "/uploads/fastlane_match.jpg"
 fullscreen: false
 
