@@ -9,7 +9,7 @@ fields:
   name: slug
   label: slug
   config:
-    required: true
+    required: false
   description: URL path
 - type: text
   name: description
