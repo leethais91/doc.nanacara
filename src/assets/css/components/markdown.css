@@ -43,7 +43,7 @@
 
   pre.shiki {
     @apply bg-gray-codeblock !important;
-    @apply border border-gray-300 -mx-6 p-6 mb-4 text-sm font-mono leading-code overflow-x-auto scrolling-touch;
+    @apply border border-gray-300 rounded -mx-6 p-6 mb-4 text-sm font-mono leading-code overflow-x-auto scrolling-touch;
   }
 
   code.shiki {
@@ -52,8 +52,8 @@
   }
 
   .shiki-inline {
-    @apply bg-gray-100 text-gray-700 !important;
-    @apply border border-gray-300 text-xs px-2 py-1 rounded;
+    @apply bg-red-100 text-red-700 !important;
+    @apply border border-red-200 text-xs px-2 py-1 rounded;
   }
 
   mark {
@@ -73,7 +73,7 @@
   }
 
   blockquote {
-    @apply border-l-4 border-gray-300 p-4 mb-4 mx-4 italic;
+    @apply border-l-4 border-gray-300 p-4 mb-4 mx-4 font-cursive;
 
     p {
       @apply mb-0;

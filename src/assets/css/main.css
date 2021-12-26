@@ -2,6 +2,8 @@
 @import 'tailwindcss/base';
 /*! purgecss end ignore */
 
+@import 'components/fonts';
+
 @import 'components/resets';
 
 @import 'tailwindcss/components';
