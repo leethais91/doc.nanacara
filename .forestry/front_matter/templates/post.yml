@@ -29,5 +29,3 @@ fields:
 - type: boolean
   name: fullscreen
   label: fullscreen
-pages:
-- content/posts/test-cms.md
