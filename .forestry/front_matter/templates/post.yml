@@ -34,3 +34,5 @@ fields:
 - type: boolean
   name: fullscreen
   label: fullscreen
+pages:
+- content/posts/here-is-title.md
